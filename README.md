@@ -39,4 +39,12 @@ D1 		1n4148 Diode
 8 pin header right angle
 
 
+
+
+Picture shows V1.0
+<img width="885" alt="Screenshot 2023-09-10 at 9 08 31 PM" src="https://github.com/Neoncluster/ZX-WESPI/assets/61561950/38671152-6db5-454e-bd73-1db469a8e9b8">
+
+
+
+
 4 pin header right angle (optional)
