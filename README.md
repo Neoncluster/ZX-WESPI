@@ -1,6 +1,7 @@
 # ZX-WESPI
-PCB layout for ZX WESPI
+PCB layout for ZX WESPI + VGA
 
+<img width="824" alt="Screenshot 2023-09-10 at 8 53 59 PM" src="https://github.com/Neoncluster/ZX-WESPI/assets/61561950/0f4aa2f2-e95c-42de-ba46-eeb4c6741c2b">
 
 BOM
 
