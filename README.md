@@ -3,6 +3,7 @@ PCB layout for ZX WESPI
 
 
 BOM
+
 ZX-WESPI+Video v1.1 
 
 DD4012SB switching regulator
