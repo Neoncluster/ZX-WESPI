@@ -1,11 +1,11 @@
 # ZX-WESPI
-PCB layout for ZX WESPI + VGA
+PCB layout for ZX-WESPI+Video v1.1
 
 <img width="824" alt="Screenshot 2023-09-10 at 8 53 59 PM" src="https://github.com/Neoncluster/ZX-WESPI/assets/61561950/0f4aa2f2-e95c-42de-ba46-eeb4c6741c2b">
 
 BOM
 
-ZX-WESPI+Video v1.1 
+
 
 DD4012SB switching regulator
 
