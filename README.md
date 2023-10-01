@@ -31,13 +31,13 @@ R4, R8, R9	100 Ohms
 
 R5, R6, R7	270 Ohms
 
-
 D1 		1n4148 Diode
 
 15pin D-Sub connector PCB mount (RGB)
 
 8 pin header right angle
 
+4 pin header right angle (optional)
 
 
 
@@ -47,4 +47,4 @@ Picture shows V1.0
 
 
 
-4 pin header right angle (optional)
+
