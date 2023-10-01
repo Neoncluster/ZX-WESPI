@@ -4,9 +4,9 @@ PCB layout for ZX-WESPI+Video v1.2 (presently v1.2 has not been built and tested
 More info can be found here: https://forum-tlienhard-com.translate.goog/phpBB3/viewtopic.php?f=2&t=3360&_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-US&fbclid=IwAR2Aj6nKOkx0YMvlNmM3UQT4UuknZxOTCnF9laRw6fc_W_n-gjrJIF61XE4
 
 <img width="824" alt="Screenshot 2023-09-10 at 8 53 59 PM" src="https://github.com/Neoncluster/ZX-WESPI/assets/61561950/0f4aa2f2-e95c-42de-ba46-eeb4c6741c2b">
- 
-BOM
 ___
+BOM
+
 
 
 DD4012SB switching regulator
