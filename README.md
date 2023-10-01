@@ -1,5 +1,5 @@
 # ZX-WESPI
-PCB layout for ZX-WESPI+Video v1.2 (presently v1.2 has not been built and tested)
+PCB layout for ZX-WESPI+Video v1.2 
 
 More info can be found here: https://forum-tlienhard-com.translate.goog/phpBB3/viewtopic.php?f=2&t=3360&_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en-US&fbclid=IwAR2Aj6nKOkx0YMvlNmM3UQT4UuknZxOTCnF9laRw6fc_W_n-gjrJIF61XE4
 
