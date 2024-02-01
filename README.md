@@ -42,6 +42,8 @@ D1 		1n4148 Diode
 
 4 pin header right angle (optional)
 
+* n.b. C3, C5 and C6 can all be replaced with one capacitor. A 100uf should do the trick. The reason for 3 caps here is to allow you use more, but smaller caps and potentially reduce the height of the build and possibly fit it into an original ZX81 case. Your choice here.
+
 __________________________
 
 Picture shows V1.0
