@@ -10,7 +10,7 @@ BOM
 
 
 
-DD4012SB switching regulator
+DD4012SB switching regulator (3v3)
 
 ESP32 30 Pin Versions (WROOM)
 
